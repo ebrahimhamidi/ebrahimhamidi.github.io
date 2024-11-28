@@ -330,12 +330,4 @@ events:
 timeline-img: ""
 
 after_footer_scripts:
-#  - /assets/js/mike.js
- 
-  
-contact_note: >
-  C1063 Cubicle D, Cyber Hall<br>
-  248 Kirkbride Ln<br>
-  Tuscaloosa, AL 35401<br>  
-  
-  
+#  - /assets/js/mike.js  
