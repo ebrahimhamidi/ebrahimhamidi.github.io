@@ -1,0 +1,9 @@
+<ul>
+  {% for publication in entry.contents %}
+    <li>
+      <strong>{{ publication.name }}</strong> - {{ publication.summary }}
+      <br>
+      <a href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.url }}</a>
+    </li>
+  {% endfor %}
+</ul>
