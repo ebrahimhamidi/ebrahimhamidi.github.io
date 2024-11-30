@@ -1,49 +1,49 @@
 {
   "basics": {
     "name": "Ebrahim Hamidi",
-    "label": "Scientist",
+    "label": "Ph.D. candidate",
     "image": "",
     "email": "shamidi1@crimson.ua.edu",
     "phone": "",
     "url": "https://ebrahimhamidi.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am curios about learning and currently my research focuses on compound coastal flood hazard assessment using the integration of remote sensing data, geospatial analysis, and numerical simulation leveraging high-performance and cloud computing platforms",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1063 D, Cyber Hall",
+      "postalCode": "",
+      "city": "Tuscaloosa",
       "countryCode": "US",
-      "region": "California"
+      "region": "Alabama"
     },
     "profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://twitter.com/EbrahimHamidi"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Coastal Hydrology Lab",
+      "position": "Ph.D. candidate",
+      "url": "https://hmoftakhari.people.ua.edu/",
+      "startDate": "2021-01-01",
+      "endDate": "2025-05-30",
+      "summary": "Research on compound coastal hazard assessment.",
+      "highlights": ["Remote sensing, Geospatial Analysis, Hydrodynamic simulation, Hyperformance and cloud computing"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+//  "volunteer": [
+ //   {
+  //    "organization": "People's Climate March",
+   //   "position": "Lead Organizer",
+   //   "url": "https://example.com",
+   //   "startDate": "2014-04-01",
+    //  "endDate": "2015-07-01",
+    //  "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+    //  "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+//    }
+//  ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
