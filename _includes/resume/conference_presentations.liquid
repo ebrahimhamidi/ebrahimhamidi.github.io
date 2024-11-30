@@ -1,0 +1,9 @@
+<ul>
+  {% for presentation in entry.contents %}
+    <li>
+      <strong>{{ presentation.name }}</strong> - {{ presentation.event }}
+      <br>
+      Location: {{ presentation.location }}
+    </li>
+  {% endfor %}
+</ul>
