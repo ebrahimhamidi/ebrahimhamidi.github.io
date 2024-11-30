@@ -4,14 +4,14 @@
     - name: Full Name
       value: Ebrahim Hamidi
     - name: Date of Birth
-      value: 1983
+      value: 14th March 1879
     - name: Languages
       value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD candidate
+    - title: PhD 
       institution: University of Alabama, Tuscaloosa, AL, USA
       year: 2025
       description:
