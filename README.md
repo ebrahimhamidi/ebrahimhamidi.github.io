@@ -1,6 +1,6 @@
-# markwang0.github.io
+# ebrahimhamidi.github.io
 
-Mark Wang's personal website. Created with [Jekyll](https://jekyllrb.com/) and the [al-folio theme](https://github.com/alshedivat/al-folio).
+Ebrahim Hamidi's personal website. Created with [Jekyll](https://jekyllrb.com/) and the [al-folio theme](https://github.com/alshedivat/al-folio).
 
 https://ebrahimhamidi.com
 
