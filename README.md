@@ -8,8 +8,8 @@ https://mark-wang.com
 
 ### Desktop
 
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/desktop/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/desktop/mark_wang_com.html)
+[![Google Lighthouse PageSpeed Insights](lighthouse_results/desktop/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/ebrahimhamidi/ebrahimhamidi.github.io/blob/master/lighthouse_results/desktop/ebrahimhamidi_com.html)
 
 ### Mobile
 
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/mobile/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/mobile/mark_wang_com.html)
+[![Google Lighthouse PageSpeed Insights](lighthouse_results/mobile/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/ebrahimhamidi/ebrahimhamidi.github.io/blob/master/lighthouse_results/mobile/ebrahimhamidi_com.html)
