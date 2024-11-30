@@ -19,13 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Mark (王凯章).
+Hi, I'm Ebrahim Hamidi (ابراهیم حمیدی).
 
-I'm a Ph.D. Candidate in the [PassaH2O Group](https://sites.google.com/site/passalacquagroup) at the University of Texas at Austin.
+I'm a Ph.D. Candidate in the [Coastal Hydrology Lab](https://eng.ua.edu/tag/coastal-hydrology/) at the University of Alabama.
 
-I am interested in flood inundation mapping, compound hazards, GIS, and high-performance computing.
-
-Before graduate school I worked as a green infrastructure engineer in the private and public sectors.
+I am interested in flood compound coastal flood hazard assessment leveraging remote sensing, geospatial analysis and numerical simulations.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
