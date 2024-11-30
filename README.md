@@ -2,7 +2,7 @@
 
 Mark Wang's personal website. Created with [Jekyll](https://jekyllrb.com/) and the [al-folio theme](https://github.com/alshedivat/al-folio).
 
-https://mark-wang.com
+https://ebrahimhamidi.com
 
 # Lighthouse PageSpeed Insights
 
