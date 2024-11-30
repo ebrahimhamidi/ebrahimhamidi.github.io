@@ -23,7 +23,7 @@ Hi, I'm Ebrahim Hamidi (ابراهیم حمیدی).
 
 I'm a Ph.D. Candidate in the [Coastal Hydrology Lab](https://eng.ua.edu/tag/coastal-hydrology/) at the University of Alabama.
 
-I am interested in flood compound coastal flood hazard assessment leveraging remote sensing, geospatial analysis and numerical simulations.
+I am interested in compound coastal flood hazard assessment leveraging remote sensing, geospatial analysis and numerical simulations.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
