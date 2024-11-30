@@ -38,6 +38,12 @@ layout: default
                 {% include cv/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
                 {% include cv/list_groups.liquid %}
+              {% elsif entry.type == 'data_publications' %}
+                {% include cv/data_publications.liquid %}
+              {% elsif entry.type == 'conference_presentations' %}
+                {% include cv/conference_presentations.liquid %}
+              {% elsif entry.type == 'teaching_experiences' %}
+                {% include cv/teaching_experiences.liquid %}
               {% else %}
                 {{ entry.contents }}
               {% endif %}
@@ -105,6 +111,12 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'data_publications' %}
+                  {% include resume/data_publications.liquid %}
+                {% when 'conference_presentations' %}
+                  {% include resume/conference_presentations.liquid %}
+                {% when 'teaching_experiences' %}
+                  {% include resume/teaching_experiences.liquid %}
                 {% else %}
 
               {% endcase %}
