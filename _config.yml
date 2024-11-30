@@ -4,6 +4,7 @@
 
 title: Ebrahim Hamidi # the website title (if blank, full name will be used instead)
 first_name: Ebrahim
+middle_name:
 last_name: Hamidi
 email: shamidi1@crimson.ua.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -67,14 +68,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 cv: true
 github_username: ebrahimhamidi
-gitlab_username: # your GitLab user name
+#gitlab_username: # your GitLab user name
 x_username: EbrahimHamidi
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+#mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: ebrahim-hamidi-30960b69
-telegram_username: # your Telegram user name
+#telegram_username: # your Telegram user name
 scholar_userid: SQgEMXAAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+#semanticscholar_id: # your Semantic Scholar ID
+#whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -103,10 +104,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Center for Water and the Environment, Room 44<br>
-  Pickle Research Campus<br>
-  10100 Burnet Road, Bldg. 119<br>
-  Austin, TX 78758<br>
+  CYB 1063 D<br>
+  The University of Alabama<br>
+  Tuscaloosa, AL<br>  
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
