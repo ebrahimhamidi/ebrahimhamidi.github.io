@@ -81,24 +81,7 @@
         "Steel and Concrete Design"
       ]
     }
-  ],
-  "teachingExperiences": [
-    {
-      "position": "Research Assistant",
-      "location": "University of Alabama",
-      "description": "Focused on NSF and USACE-funded flood hazard assessment projects."
-    },
-    {
-      "position": "Teacher Assistant",
-      "location": "University of Alabama",
-      "description": "Taught CE 378 (Water Resources Engineering) and hands-on 2D HEC-RAS modeling."
-    },
-    {
-      "position": "Instructor",
-      "location": "Kavar Scientific Applied School, Iran",
-      "description": "Lectured on natural hazards and structural engineering."
-    }
-  ],
+  ],  
   "work": [
     {
       "name": "Coastal Hydrology Lab",
@@ -243,6 +226,23 @@
     {
       "name": "Enhanced Flood Assessment with Hybrid Meshes and DEMs",
       "publisher": "AGU Fall Meeting 2023"
+    }
+  ],
+  "teachingExperiences": [
+    {
+      "position": "Research Assistant",
+      "location": "University of Alabama",
+      "description": "Focused on NSF and USACE-funded flood hazard assessment projects."
+    },
+    {
+      "position": "Teacher Assistant",
+      "location": "University of Alabama",
+      "description": "Taught CE 378 (Water Resources Engineering) and hands-on 2D HEC-RAS modeling."
+    },
+    {
+      "position": "Instructor",
+      "location": "Kavar Scientific Applied School, Iran",
+      "description": "Lectured on natural hazards and structural engineering."
     }
   ],
   "awards": [
