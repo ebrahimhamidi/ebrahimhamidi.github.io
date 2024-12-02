@@ -82,7 +82,7 @@
       ]
     }
   ],
-    "teachingExperiences": [
+  "teachingExperiences": [
     {
       "position": "Research Assistant",
       "location": "University of Alabama",
@@ -98,7 +98,7 @@
       "location": "Kavar Scientific Applied School, Iran",
       "description": "Lectured on natural hazards and structural engineering."
     }
-  ]
+  ],
   "work": [
     {
       "name": "Coastal Hydrology Lab",
