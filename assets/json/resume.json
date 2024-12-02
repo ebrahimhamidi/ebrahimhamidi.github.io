@@ -27,57 +27,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Coastal Hydrology Lab",
-      "position": "Ph.D. Candidate",
-      "url": "https://hmoftakhari.people.ua.edu/",
-      "startDate": "2021-01-01",
-      "endDate": "2025-05-30",
-      "summary": "Conducting advanced research on multi-hazard risk analysis of coastal compound flooding, with emphasis on integrating data and models for improved prediction and response.",
-      "highlights": [
-        "Developed hybrid approaches combining hydrodynamic simulations and remote sensing data for flood extent mapping.",
-        "Implemented cloud-based computing solutions to process large-scale datasets, enhancing computational efficiency.",
-        "Collaborated with NSF and USACE on high-impact research projects addressing coastal flood risks."
-      ]
-    },
-    {
-      "name": "National Water Center Program Summer Institute",
-      "position": "Course Coordinator",
-      "startDate": "2023-02-01",
-      "endDate": "2023-08-01",
-      "summary": "Planned and organized the Summer Institute, collaborating with leaders and fellows to facilitate impactful research.",
-      "highlights": [
-        "Supervised research teams working on coastal flood modeling.",
-        "Assisted fellows with technical challenges and presentations.",
-        "Developed training materials on geospatial data processing and analysis."
-      ]
-    },
-    {
-      "name": "National Water Center Program Summer Institute",
-      "position": "Research Fellow",
-      "startDate": "2022-05-15",
-      "endDate": "2022-08-01",
-      "summary": "Developed a coastal-inland coupled BMI for the Next-Gen National Water Model.",
-      "highlights": [
-        "Collaborated with research teams and coastal-coupling theme leads.",
-        "Prepared weekly research progress presentations and final reports.",
-        "Contributed to the development of the Next-Gen National Water Model."
-      ]
-    },
-    {
-      "name": "Pars Padab Sanaat Consulting Engineers Company",
-      "position": "Lead Engineer and Designer",
-      "startDate": "2010-09-01",
-      "endDate": "2020-10-01",
-      "summary": "Led engineering projects and design of municipal and industrial structures, including hydraulic structures and flood control systems.",
-      "highlights": [
-        "Designed complex hydraulic systems for urban flood management.",
-        "Conducted site assessments and feasibility studies for industrial structures.",
-        "Supervised multidisciplinary teams on large-scale engineering projects."
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "The University of Alabama",
@@ -133,6 +82,57 @@
       ]
     }
   ],
+  "work": [
+    {
+      "name": "Coastal Hydrology Lab",
+      "position": "Ph.D. Candidate",
+      "url": "https://hmoftakhari.people.ua.edu/",
+      "startDate": "2021-01-01",
+      "endDate": "2025-05-30",
+      "summary": "Conducting advanced research on multi-hazard risk analysis of coastal compound flooding, with emphasis on integrating data and models for improved prediction and response.",
+      "highlights": [
+        "Developed hybrid approaches combining hydrodynamic simulations and remote sensing data for flood extent mapping.",
+        "Implemented cloud-based computing solutions to process large-scale datasets, enhancing computational efficiency.",
+        "Collaborated with NSF and USACE on high-impact research projects addressing coastal flood risks."
+      ]
+    },
+    {
+      "name": "National Water Center Program Summer Institute",
+      "position": "Course Coordinator",
+      "startDate": "2023-02-01",
+      "endDate": "2023-08-01",
+      "summary": "Planned and organized the Summer Institute, collaborating with leaders and fellows to facilitate impactful research.",
+      "highlights": [
+        "Supervised research teams working on coastal flood modeling.",
+        "Assisted fellows with technical challenges and presentations.",
+        "Developed training materials on geospatial data processing and analysis."
+      ]
+    },
+    {
+      "name": "National Water Center Program Summer Institute",
+      "position": "Research Fellow",
+      "startDate": "2022-05-15",
+      "endDate": "2022-08-01",
+      "summary": "Developed a coastal-inland coupled BMI for the Next-Gen National Water Model.",
+      "highlights": [
+        "Collaborated with research teams and coastal-coupling theme leads.",
+        "Prepared weekly research progress presentations and final reports.",
+        "Contributed to the development of the Next-Gen National Water Model."
+      ]
+    },
+    {
+      "name": "Pars Padab Sanaat Consulting Engineers Company",
+      "position": "Lead Engineer and Designer",
+      "startDate": "2010-09-01",
+      "endDate": "2020-10-01",
+      "summary": "Led engineering projects and design of municipal and industrial structures, including hydraulic structures and flood control systems.",
+      "highlights": [
+        "Designed complex hydraulic systems for urban flood management.",
+        "Conducted site assessments and feasibility studies for industrial structures.",
+        "Supervised multidisciplinary teams on large-scale engineering projects."
+      ]
+    }
+  ],  
   "skills": [
     {
       "name": "Programming and Tools",
@@ -186,6 +186,12 @@
       "releaseDate": "2023-01-01",
       "url": "https://doi.org/10.1109/TGRS.2023.3240097",
       "summary": "Introduces a rapid approach for flood monitoring using SAR data and change detection techniques."
+    },
+    {
+      "name": "Numerical Modelling of the Mild Slope Equation using Localised Differential Quadrature Method.",
+      "publisher": "Ocean Engineering",
+      "releaseDate": "2012-03-01",
+      "url": "https://doi.org/10.1016/j.oceaneng.2012.03.004"
     }
   ],
   "dataPublications": [
