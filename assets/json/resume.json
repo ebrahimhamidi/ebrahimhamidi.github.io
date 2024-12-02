@@ -214,16 +214,19 @@
   "dataPublications": [
     {
       "name": "Fast Flood Monitoring Tool (FFMT)",
+      "publisher": "HydroShare",
       "summary": "Developed a Google Earth Engine app for rapid flood mapping using SAR data.",
       "url": "https://doi.org/10.4211/hs.bf66a6cc204d4691abda18833bf68760"
     },
     {
       "name": "SAR-Based Coastal Flood Extent Estimation",
+      "publisher": "Harvard Dataverse",
       "summary": "Dataset published on Harvard Dataverse for flood extent estimation using SAR data.",
       "url": "https://doi.org/10.7910/DVN/WOTC7E"
     },
     {
       "name": "ArcGIS Script Tool for Flood Extraction",
+      "publisher": "GitHub",
       "summary": "Tool for extracting flood extent from optical satellite data.",
       "url": "https://github.com/ebrahimhamidi/ArcGIS-Script-Tool-for-Flood-Extraction-from-Optical-Satellite-Data"
     }
@@ -231,28 +234,25 @@
   "conferencePresentations": [
     {
       "name": "Advanced Flood Mapping Using Multi-Source Remote Sensing Data",
-      "event": "AWRA 2024 Spring Conference",
-      "location": "Tuscaloosa, AL, USA"
+      "publisher": "AWRA 2024 Spring Conference"
     },
     {
       "name": "Google Earth Engine App for Urgent Flood Mapping",
-      "event": "AGU Fall Meeting 2023",
-      "location": "Chicago, IL, USA"
+      "publisher": "AGU Fall Meeting 2023"
     },
     {
       "name": "Enhanced Flood Assessment with Hybrid Meshes and DEMs",
-      "event": "AGU Fall Meeting 2023",
-      "location": "Chicago, IL, USA"
+      "publisher": "AGU Fall Meeting 2023"
     }
   ],
   "awards": [
     {
-      "title": "CUAHSI's Hydroinformatics Innovation Fellowship Award, 2023 for Fast Flood Monitoring Tool – FFMT ",
-      "year": "2023"
+      "name": "CUAHSI's Hydroinformatics Innovation Fellowship Award, 2023 for Fast Flood Monitoring Tool – FFMT ",
+      "releaseDate": "2023"
     },
     {
-      "title": "The National Water Center Innovators Program Award",
-      "year": "2022"
+      "name": "The National Water Center Innovators Program Award",
+      "releaseDate": "2022"
     }
   ]
 }
