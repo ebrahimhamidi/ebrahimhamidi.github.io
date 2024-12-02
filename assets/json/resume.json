@@ -247,14 +247,15 @@
   ],
   "awards": [
     {
-      "title": "CUAHSI's Hydroinformatics Innovation Fellowship Award, 2023 for Fast Flood Monitoring Tool – FFMT ",
+      "title": "Hydroinformatics Innovation Fellowship Award",
+      "date": "2023-01-01",
       "awarder": "CUAHSI",
-      "date": "2023"
+      "summary": "Development of Google Earth Engine Fast Flood Monitoring Tool – FFMT"
     },
     {
       "title": "The National Water Center Innovators Program Award",
-      "awarder": "CUAHSI",
-      "date": "2022"
+      "date": "2022-04-01",
+      "awarder": "CUAHSI"      
     }
   ]
 }
