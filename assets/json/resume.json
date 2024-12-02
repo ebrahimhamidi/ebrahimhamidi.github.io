@@ -247,12 +247,14 @@
   ],
   "awards": [
     {
-      "name": "CUAHSI's Hydroinformatics Innovation Fellowship Award, 2023 for Fast Flood Monitoring Tool – FFMT ",
-      "releaseDate": "2023"
+      "title": "CUAHSI's Hydroinformatics Innovation Fellowship Award, 2023 for Fast Flood Monitoring Tool – FFMT ",
+      "awarder": "CUAHSI",
+      "date": "2023"
     },
     {
-      "name": "The National Water Center Innovators Program Award",
-      "releaseDate": "2022"
+      "title": "The National Water Center Innovators Program Award",
+      "awarder": "CUAHSI",
+      "date": "2022"
     }
   ]
 }
