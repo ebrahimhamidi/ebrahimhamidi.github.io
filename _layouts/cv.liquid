@@ -8,11 +8,11 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+            ><i class="fa-solid fa-file-pdf" aria-label="Download PDF"></i
           ></a>
         {% endif %}
       </h1>
@@ -37,7 +37,7 @@ layout: default
               {% elsif entry.type == 'time_table' %}
                 {% include cv/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
-                {% include cv/list_groups.liquid %
+                {% include cv/list_groups.liquid %}
               {% else %}
                 {{ entry.contents }}
               {% endif %}
@@ -54,11 +54,11 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+            ><i class="fa-solid fa-file-pdf" aria-label="Download PDF"></i
           ></a>
         {% endif %}
       </h1>
@@ -75,7 +75,9 @@ layout: default
               {% continue %}
             {% endunless %}
           {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          {% if data[0] == 'meta' or data[1].size == 0 %}
+            {% continue %}
+          {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
@@ -111,8 +113,6 @@ layout: default
                   {% include resume/conference_presentations.liquid %}
                 {% when 'teaching_experiences' %}
                   {% include resume/teaching_experiences.liquid %}
-                {% else %}
-
               {% endcase %}
             </div>
           </div>
