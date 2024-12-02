@@ -37,13 +37,7 @@ layout: default
               {% elsif entry.type == 'time_table' %}
                 {% include cv/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
-                {% include cv/list_groups.liquid %}
-              {% elsif entry.type == 'data_publications' %}
-                {% include cv/data_publications.liquid %}
-              {% elsif entry.type == 'conference_presentations' %}
-                {% include cv/conference_presentations.liquid %}
-              {% elsif entry.type == 'teaching_experiences' %}
-                {% include cv/teaching_experiences.liquid %}
+                {% include cv/list_groups.liquid %
               {% else %}
                 {{ entry.contents }}
               {% endif %}
