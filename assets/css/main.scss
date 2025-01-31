@@ -4,12 +4,7 @@
 @charset "utf-8";
 
 // Dimensions
-:root {
-  --max-content-width: {{ site.max_width }}; /* Define a CSS variable for dynamic use */
-}
-
-$max-content-width: var(--max-content-width); /* Use the CSS variable in SCSS */
-
+$max-content-width: {{ site.max_width }};
 
 @import
   "variables",
