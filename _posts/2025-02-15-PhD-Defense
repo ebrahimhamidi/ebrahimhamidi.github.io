@@ -8,12 +8,6 @@ categories: News
 published: true
 ---
 
-<div class="row mt-3">
-    <div class="col-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CUAHSI_News.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
-    </div>
-</div>
-
 📢 Ph.D. Defense Announcement
 
 📝 Title:
