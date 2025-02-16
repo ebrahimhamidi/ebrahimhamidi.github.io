@@ -1,19 +1,19 @@
 # 📢 **Ph.D. Defense Announcement**
 
 ## 📝 **Title:**  
-**Compound Flood Assessment Leveraging Remote Sensing Data and Hydrodynamic Simulation in Low-Gradient Coastal Areas**
+## **Compound Flood Assessment Leveraging Remote Sensing Data and Hydrodynamic Simulation in Low-Gradient Coastal Areas**
 
 ## 👨‍🎓 **Candidate:**  
-**Ebrahim Hamidi**
+## **Ebrahim Hamidi**
 
 ## 🎓 **Committee Chair:**  
-**Dr. Hamed Moftakhari**
+## **Dr. Hamed Moftakhari**
 
 ## 📅 **Date & Time:**  
-**February 28, 11:30 AM (Central Time)**
+## **February 28, 11:30 AM (Central Time)**
 
 ## 📍 **Location:**  
-**Room 1012, North Lawn Hall**  
+## **Room 1012, North Lawn Hall**  
 **221 Hackberry Ln, Tuscaloosa, AL 35401**
 
 ## 🔗 **[Join via Zoom](https://ua-edu.zoom.us/j/4165922040?pwd=RkN0SC90QzFkS25WVWszU3pUTWN2UT09)**  
