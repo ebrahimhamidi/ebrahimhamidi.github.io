@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ebrahim Hamidi",
-    "label": "Ph.D. Candidate",
+    "label": "Ph.D.",
     "image": "",
     "email": "shamidi1@crimson.ua.edu",
     "phone": "",
@@ -48,7 +48,7 @@
       "url": "https://www.ua.edu/",
       "area": "Civil and Environmental Engineering",
       "studyType": "M.Sc.",
-      "startDate": "2023-01-01",
+      "startDate": "2021-01-01",
       "endDate": "2024-01-01",
       "courses": [
         "Multi-source Remote Sensing Approach for Advanced Flood Mapping"
