@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Ebrahim Hamidi (ابراهیم حمیدی).
 
-I completed my Ph.D. at the University of Alabama, where I conducted research in the [Coastal Hydrology Lab](https://hmoftakhari.people.ua.edu/) and the [Center for Complex Hydrosystems Research](https://moradkhani.ua.edu/).
+I am a Postdoctoral fellow in the [Coastal Hazards Lab](https://chaz.wordpress.ncsu.edu/) at North Carolina State University.
 
-Recently, I joined the [Coastal Hazards Lab](https://chaz.wordpress.ncsu.edu/) at North Carolina State University.
+I completed my Ph.D. at the University of Alabama, where I conducted research in the [Coastal Hydrology Lab](https://hmoftakhari.people.ua.edu/) and the [Center for Complex Hydrosystems Research](https://moradkhani.ua.edu/).
 
 I am interested in natural hazard assessment, particularly compound coastal flooding, using remote sensing, hydrodynamic simulations, and geospatial data analysis, leveraging high-performance parallel computing and cloud-based platforms.
 
