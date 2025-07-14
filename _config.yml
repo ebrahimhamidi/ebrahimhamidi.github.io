@@ -104,9 +104,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  CYB 1063 D<br>
-  The University of Alabama<br>
-  Tuscaloosa, AL<br>  
+  Coastal Engineering Lab<br>
+  North Carolina State University<br>
+  Raleigh, NC<br>  
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
