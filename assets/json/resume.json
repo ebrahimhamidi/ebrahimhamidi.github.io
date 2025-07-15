@@ -181,18 +181,25 @@
   ],
   "publications": [
     {
+      "name": "Integrating Multi-Source Remote Sensing and Numerical Simulation Approaches for Enhanced Flood Hazard Assessment",
+      "publisher": "Under review at Journal of Hydrology",
+      "releaseDate": "2025-06-30",
+      "url": "https://dx.doi.org/10.2139/ssrn.5335438",
+      "summary": "In this study, we integrate multi-source RS data, including optical and synthetic aperture radar (SAR) imagery, with NS to improve the characterization of extreme floods. RS data provide high-resolution flood extent maps that support verification and calibration of NS models. In turn, NS offers process-based, high-temporal-resolution flood maps and flood dynamics information (e.g., flood depths), which are critical for emergency response."
+    },
+    {
+      "name": "Global Flood Monitoring and Management Through Multi-Source Geo-Communication Tool",
+      "publisher": "International Journal of Applied Earth Observation and Geoinformation",
+      "releaseDate": "2025-07-02",
+      "url": "https://doi.org/10.1016/j.jag.2025.104701",
+      "summary": "Explores a multi-source approach, integrating optical and SAR imagery to improve water extraction accuracy and offer all-weather, day-night capabilities for near-real-time global flood mapping."
+    },
+    {
       "name": "Enhancing Compound Flood Simulation Accuracy and Efficiency in Urbanized Coastal Areas",
       "publisher": "Sustainable Cities and Society",
       "releaseDate": "2025-02-01",
       "url": "https://doi.org/10.1016/j.scs.2025.106184",
       "summary": "Explores hybrid meshes and modified DEMs for improving urbanized coastal flood simulation accuracy and efficiency."
-    },
-    {
-      "name": "Global Flood Monitoring and Management Through Multi-Source Geo-Communication Tool",
-      "publisher": "Under Review at International Journal of Applied Earth Observation and Geoinformation",
-      "releaseDate": "2025-02-10",
-      "url": "https://dx.doi.org/10.2139/ssrn.5131272",
-      "summary": "Explores a multi-source approach, integrating optical and SAR imagery to improve water extraction accuracy and offer all-weather, day-night capabilities for near-real-time global flood mapping."
     },
     {
       "name": "Coupling Coastal and Hydrologic Models Through Next Generation National Water Model Framework",
