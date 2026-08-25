@@ -104,9 +104,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Coastal Engineering Lab<br>
-  North Carolina State University<br>
-  Raleigh, NC<br>  
+  Research and Innovation Department<br>
+  Clean Water Services<br>
+  Portland, OR<br>  
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
