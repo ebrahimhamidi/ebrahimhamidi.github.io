@@ -21,7 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Ebrahim Hamidi (ابراهیم حمیدی).
  
-I am a Postdoctoral fellow in the [Coastal Hazards Lab](https://chaz.wordpress.ncsu.edu/) at North Carolina State University and collaborate closely with the [Global Hydrology Lab](https://uncglobalhydrology.org/) at the University of North Carolina at Chapel Hill.
+I am a Data Analyst working with satellite and other remotely-sensed data, comparing them with in-situ gauge data to improve operational simulations and designs at [Clean Water Services](https://cleanwaterservices.org/).
+
+I had a one-year postdoctoral fellowship in the [Coastal Hazards Lab](https://chaz.wordpress.ncsu.edu/) at North Carolina State University and collaborate closely with the [Global Hydrology Lab](https://uncglobalhydrology.org/) at the University of North Carolina at Chapel Hill.
 
 I completed my Ph.D. at the University of Alabama, where I conducted research in the [Coastal Hydrology Lab](https://hmoftakhari.people.ua.edu/) and the [Center for Complex Hydrosystems Research](https://moradkhani.ua.edu/).
 
